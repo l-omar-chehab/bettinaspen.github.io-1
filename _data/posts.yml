@@ -1,0 +1,11 @@
+
+
+- layout: list
+  name: Blogpost 1
+  filename: blogpost_1
+  date: March 2022
+
+- layout: list
+  name: Blogpost 2
+  filename: blogpost_2
+  date: March 2022
