@@ -4,11 +4,6 @@
   name: B's Poems in English
   filename: poems_english
   date: August 2022
-
-- layout: list
-  name: B's Poems in French
-  filename: poems_french
-  date: August 2022
   
 - layout: list
   name: Blogpost 2
