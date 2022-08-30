@@ -3,4 +3,6 @@ layout: default
 ---
 
 
-Hi there - welcome to Bettina's Pen. Have a read!
+Welcome to **Bettina's Pen**, a portal that channels mainly Bettina's inspired thoughts, expressed creatively in *poetry* or *prose*.
+
+Explore and enjoy!
