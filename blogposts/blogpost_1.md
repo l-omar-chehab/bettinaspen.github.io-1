@@ -3,17 +3,7 @@ layout: list
 menu: no
 ---
 
+Some introductory text.
 
-# Introduction
-
-
-This is a template.
-
-### Title 1
-
-
-Some text.
-
-### Title 2
-
-Some more text.
+<object data="/img/template.pdf" width="100%" height="800px" type="application/pdf">
+</object>
