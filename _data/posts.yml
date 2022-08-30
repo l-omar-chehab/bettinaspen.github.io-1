@@ -6,6 +6,11 @@
   date: August 2022
 
 - layout: list
+  name: B's Poems in French
+  filename: poems_french
+  date: August 2022
+  
+- layout: list
   name: Blogpost 2
   filename: blogpost_2
   date: March 2022
