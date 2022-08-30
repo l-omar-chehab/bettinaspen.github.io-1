@@ -4,7 +4,7 @@ layout: default
 
 <!--This is a comment for me that will not appear on the website-->
 
-![flower](./img/flower.jpg){: style="float: right; margin: 0px 20px; width: 220px; height: 320px" name="flower"}
+![flower](./img/flower.jpg){: style="float: right; margin: 0px 20px; width: 280px; height: 340px" name="flower"}
 
 Welcome to **Bettina's Pen**, a portal that channels mainly Bettina's inspired thoughts,  
 
