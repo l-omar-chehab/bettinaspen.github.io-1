@@ -9,3 +9,9 @@
   name: Blogpost 2
   filename: blogpost_2
   date: March 2022
+
+- layout: list
+  name: Blogpost 3
+  filename: blogpost_3
+  date: August 2022
+  
